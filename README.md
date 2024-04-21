@@ -1,3 +1,7 @@
+Status of Last Deployment:<br>
+<img src="https://github.com/vladashvch/example-app-nodejs-backend-react-frontend/actions/workflows/Node_js_CI/badge.svg?branch=master"><br>
+
+
 # example-app-nodejs-backend-react-frontend
 
 > This is an example app created for the blog post '[What is a good directory structure for a monorepo with a Node.js back end and React front end?](https://simonplend.com/what-is-a-good-directory-structure-for-a-monorepo-with-a-node-js-back-end-and-react-front-end/)'.
