@@ -1,5 +1,6 @@
 Status of Last Deployment:<br>
-<img src="https://github.com/vladashvch/example-app-nodejs-backend-react-frontend/actions/workflows/Node_js_CI/badge.svg?branch=master"><br>
+[![Node_js_CI](https://github.com/vladashvch/example-app-nodejs-backend-react-frontend/actions/workflows/node.js.yml/badge.svg)](https://github.com/vladashvch/example-app-nodejs-backend-react-frontend/actions/workflows/node.js.yml)
+<br>
 
 
 # example-app-nodejs-backend-react-frontend
